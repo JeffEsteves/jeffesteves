@@ -27,6 +27,17 @@
 
 <br><br>
 
+
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=jeffesteves&show_icons=true&theme=vision-friendly-dark" alt="jeffesteves's stats"/> <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffesteves&layout=compact&theme=vision-friendly-dark" alt="jeffesteves's most languages"/>
+</p>
+
+<br><br>
+
 ## &#129492;&#127997; Social Links
 <br>
 
@@ -38,14 +49,6 @@
 
 </p>
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-<br>
-
-<p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=jeffesteves&show_icons=true&theme=vision-friendly-dark" alt="jeffesteves's stats"/> <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffesteves&layout=compact&theme=vision-friendly-dark" alt="jeffesteves's most languages"/>
-</p>
 
 
 
