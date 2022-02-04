@@ -2,7 +2,7 @@
 
 <br>
 
-- 🌱 Junior Front-End developer, coding enthusiast 🙌.
+- 🌱 Junior Front-End developer, coding enthusiast 🙌
 - 🧔🏽 Focused on helping people and companies to solve problems
 - 🔭 I’m currently working as Freelancer
 - 💬 Ask me about **JavaScript, HTML, CSS, NoSQL, Node.JS**
