@@ -10,6 +10,7 @@
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
+<br>
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;	
@@ -17,6 +18,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -26,6 +28,7 @@
 <br><br>
 
 ## &#129492;&#127997; Social Links
+<br>
 
 <p align="left" style="background:yellow">
 
@@ -38,7 +41,7 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+<br>
 
 <p align="center">
 <img width="500em" src="https://github-readme-stats.vercel.app/api?username=jeffesteves&show_icons=true&theme=vision-friendly-dark" alt="jeffesteves's stats"/> <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffesteves&layout=compact&theme=vision-friendly-dark" alt="jeffesteves's most languages"/>
