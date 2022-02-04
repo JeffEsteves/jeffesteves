@@ -40,10 +40,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 
-![JeffEsteves's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffesteves&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffesteves&layout=compact&langs_count=10&theme=radical)](https://github.com/jeffesteves/github-readme-stats)
-
-
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=jeffesteves&show_icons=true&theme=vision-friendly-dark" alt="jeffesteves's stats"/> <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffesteves&layout=compact&theme=vision-friendly-dark" alt="jeffesteves's most languages"/>
+</p>
 
 
 
