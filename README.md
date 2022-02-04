@@ -1,6 +1,6 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeff</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeff !</h1>
 
-<br><br>
+<br>
 
 - 🌱 Junior Front-End developer, coding enthusiast 🙌.
 - 🧔🏽 Focused on helping people and companies to solve problems
