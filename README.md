@@ -1,9 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Jeff</h1>
-- 🧔🏽 Front-end developer, JavaScript enthusiast 🙌. Focused on helping people and companies to grow and solve problems
-- 🔭 I’m currently working as Freelancer
-- 💬 Ask me about JavaScript, HTML, CSS, Javascript, Node.JS, NoSQL, SQL. 
 
-<br>
+<br><br>
+
+- 🌱 Junior Front-End developer, coding enthusiast 🙌.
+- 🧔🏽 Focused on helping people and companies to solve problems
+- 🔭 I’m currently working as Freelancer
+- 💬 Ask me about **JavaScript, HTML, CSS, NoSQL, Node.JS**
+
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -19,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br>
+<br><br>
 
 ## &#129492;&#127997; Social Links
 
@@ -31,7 +35,7 @@
 
 </p>
 
-<br>
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -40,7 +44,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffesteves&layout=compact&theme=vision-friendly-dark" alt="jeffesteves's most languages"/>
 </p>
 
-<br>
+
 
 
 
